@@ -13,6 +13,6 @@ You can run the notebook using the google colab link below
 
 ![](img/fpn.gif)
 
-## 101 Object Tracker 
+## 101 Instance Tracker 
 
 ![](img/otracker.gif)
