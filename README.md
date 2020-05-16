@@ -1,6 +1,6 @@
 ## AMMI CV Course
 
-Taught by [Laurens van der Maaten](http://lvdmaaten.github.io/) and [Georgia Gkioxari](https://fstrub95.github.io/)
+Taught by [Laurens van der Maaten](http://lvdmaaten.github.io/) and [Georgia Gkioxari](https://gkioxari.github.io/)
 
 
 ## Getting started
